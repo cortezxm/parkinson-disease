@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dataset (downloaded from figshare by the notebook) and derived caches
+data/
+
+# LaTeX build files
+docs/*.aux
+docs/*.bbl
+docs/*.blg
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.synctex.gz
